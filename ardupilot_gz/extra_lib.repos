@@ -1,0 +1,13 @@
+repositories:
+  actuator_msgs:
+    type: git
+    url: https://github.com/rudislabs/actuator_msgs.git
+    version: main
+  vision_msgs:
+    type: git
+    url: https://github.com/ros-perception/vision_msgs.git
+    version: ros2
+  topic_tools:
+    type: git
+    url: https://github.com/ros-tooling/topic_tools/tree/humble
+    version: humble
