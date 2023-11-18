@@ -9,5 +9,5 @@ repositories:
     version: ros2
   topic_tools:
     type: git
-    url: https://github.com/ros-tooling/topic_tools/tree/humble
+    url: https://github.com/ros-tooling/topic_tools.git
     version: humble
